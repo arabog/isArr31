@@ -19,7 +19,6 @@ easier.
 */ 
 
 function blackAndWhite(arr) {
-          let arr2 = JSON.stringify([5,13]);
 
           if(!Array.isArray(arr) ) {
                     return "It's a fake array"
